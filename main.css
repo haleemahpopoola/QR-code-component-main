@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,500;1,9..40,500&family=Outfit:wght@100..900&family=Playwrite+DE+VA+Guides&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media screen and (max-width:1440px){
+    body{
+        background-color: hsl(212,45%,89%);
+        font-family: 'OUTFIT', sans-serif;
+        margin: 10px;
+    }
+    .inner-container{
+        background-color: hsl(0, 0%, 100%);
+        padding: 11px;
+        border: none;
+        border-radius: 10px;
+        width: 15rem;
+        height: auto;
+    }
+    p{
+        font-size: 15px;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .p1{
+        font-weight: 700;
+        color: hsl(218, 44%, 22%);
+        padding: 10px;
+        text-align: center;
+    }
+    .p2{
+        font-weight: 400;
+        color: hsl(216, 15%, 48%);
+        padding: 10px;
+        font-size: 12px;
+        text-align: center;
+    }
+    img{
+        width: 218px;
+    }
+}
+@media screen and (max-width:1440px){
+    body{
+        background-color: hsl(212,45%,89%);
+        font-family: 'OUTFIT', sans-serif;
+        margin: 10px;
+    }
+    .inner-container{
+        background-color: hsl(0, 0%, 100%);
+        padding: 11px;
+        border: none;
+        border-radius: 10px;
+        width: 15rem;
+        height: auto;
+    }
+    p{
+        font-size: 15px;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .p1{
+        font-weight: 700;
+        color: hsl(218, 44%, 22%);
+        padding: 10px;
+        text-align: center;
+        
+    }
