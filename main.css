@@ -36,6 +36,7 @@
         font-weight: 400;
         color: hsl(216, 15%, 48%);
         padding: 10px;
+        padding-top: 0;
         font-size: 12px;
         text-align: center;
     }
