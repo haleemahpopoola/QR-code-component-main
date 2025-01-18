@@ -3,9 +3,9 @@
 
 ## Table of Contents
 -[Introduction](#Introduction)
--[Challenge Overview](#Challenge Overview)
--[Installation and setup](#Installation and setup)
--[Challenge Instuction](#Challenge Instuction)
+-[Overview](#Overview)
+-[setup](#setup)
+-[Instuction](#Instuction)
 -[Resources](#Resources)
 -[Author](#Author)
 
@@ -13,20 +13,20 @@
 ## Introduction
 Hey everyone! 🎉 I'm taking on an awesome HTML and CSS challenge, where  i'll be building a web page from scratc. in this repository, i'll be sharing my code and progress as i work through the challenge.
 
-## Challenge Overview
+## Overview
 The challenge is to create a simple web page layout that:
 - Contains a container div, main content div, and footer div.
 - Uses basic CSS for layout styling (flexbox).
 - Has at least two media query for responsive design.
 
-## Installation and Setup
+## Setup
 1. Clone the repository:
    ```bash
    https://github.com/haleemahpopoola/QR-code-component-main.git
    ```
 2. Open the `index.html` file in your web browser to see the page layout.
 
-## Challenge Instructions
+## Instructions
 - Create the `index.html` with the structure described above.
 - Style the page using CSS in `main.css`.
 - Ensure the page is fully responsive on mobile and desktop devices using media queries.
